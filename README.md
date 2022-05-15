@@ -12,14 +12,6 @@ In many parts of our country there is an imperative need of traffic signals at m
 Our Contribution :
 Using Arduino and minimal hardware we have tackled this problem in an efficient and cost effective way. We have designed a simple and easy to understand traffic light controller.
 
-This project uses an Arduino and some LEDs to replicate a traffic light. It uses code as an internal timer and continues to run until you cut the Arduino's power supply.
-
-Arduino
-Breadboard
-Jumper Wires
-LEDs
-USB Arduino cable
-Resistor
 
 
 ![image](https://user-images.githubusercontent.com/95503105/168458578-3d125e52-4896-40ae-b450-d48c35faa27f.png)
